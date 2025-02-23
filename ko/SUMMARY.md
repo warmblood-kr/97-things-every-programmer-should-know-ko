@@ -7,3 +7,4 @@
 1. [아름다움은 단순함에 있다](thing_05/README.md)
 1. [공유에 유의하라](thing_07/README.md)
 1. [하나보다는 두 개의 머리가 좋다](thing_85/README.md)
+1. [프로그래밍을 짝으로 하고 몰입을 느껴라](thing_64/README.md)
