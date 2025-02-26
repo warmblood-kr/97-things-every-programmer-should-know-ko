@@ -25,4 +25,4 @@
 
 Jørn Ølmheim 씀.
 
-[^1]: 원문은 "Beauty of style and harmony and grace and good rhythm depend on simplicity."입니다. 플라톤의 원래 문장은 이런 내용이 이어집니다. "I mean the true simplicity of a rightly and nobly ordered mind and character, not that other simplicity which is only a euphemism for folly". '국가'에 나오는 내용으로 보입니다.
+[^1]: 원문은 "Beauty of style and harmony and grace and good rhythm depend on simplicity."입니다. 플라톤의 원래 문장은 이런 내용이 이어집니다. "I mean the true simplicity of a rightly and nobly ordered mind and character, not that other simplicity which is only a euphemism for folly". '국가'에 나오는 내용으로 보입니다. 'The Republic' Book 3, 400d-400e.
