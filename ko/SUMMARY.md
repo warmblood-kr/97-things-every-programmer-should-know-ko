@@ -13,3 +13,5 @@
 1. [나를 설치하라](thing_40/README.md)
 1. [하나보다는 두 개의 머리가 좋다](thing_85/README.md)
 1. [프로그래밍을 짝으로 하고 몰입을 느껴라](thing_64/README.md)
+1. [예스에서 시작하라](thing_77/README.md)
+1. [평생 유지보수해야 한다고 생각하며 코드를 작성하세요](thing_93/README.md)
