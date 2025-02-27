@@ -9,6 +9,7 @@
 1. [추론하며 코딩하기](thing_15/README.md)
 1. [비즈니스 예외를 기술 예외와 구분하라](thing_21/README.md)
 1. [언어만 배울 뿐 아니라, 그 문화도 이해하라](thing_27/README.md)
+1. [노력은 결실을 맺지 않는다](thing_37/README.md)
 1. [나를 설치하라](thing_40/README.md)
 1. [하나보다는 두 개의 머리가 좋다](thing_85/README.md)
 1. [프로그래밍을 짝으로 하고 몰입을 느껴라](thing_64/README.md)
