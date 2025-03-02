@@ -6,6 +6,7 @@
 1. ["사용자는 무엇을 할까?"라고 물어보라 (당신은 사용자가 아니다)](thing_03/README.md)
 1. [아름다움은 단순함에 있다](thing_05/README.md)
 1. [공유에 유의하라](thing_07/README.md)
+1. [코드 레이아웃이 중요하다](thing_13/README.md)
 1. [추론하며 코딩하기](thing_15/README.md)
 1. [비즈니스 예외를 기술 예외와 구분하라](thing_21/README.md)
 1. [언어만 배울 뿐 아니라, 그 문화도 이해하라](thing_27/README.md)
