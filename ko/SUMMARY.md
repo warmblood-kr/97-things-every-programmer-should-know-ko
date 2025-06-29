@@ -13,6 +13,7 @@
 1. [신중하게 도구를 선택하라](thing_10/README.md)
 1. [도메인의 언어로 코딩하라](thing_11/README.md)
 1. [코드는 설계다](thing_12/README.md)
+1. [코드 레이아웃이 중요하다](thing_13/README.md)
 1. [코드 리뷰](thing_14/README.md)
 1. [추론하며 코딩하기](thing_15/README.md)
 1. [주석에 대한 의견](thing_16/README.md)
