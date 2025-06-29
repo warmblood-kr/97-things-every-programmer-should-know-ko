@@ -8,6 +8,7 @@
 1. [아름다움은 단순함에 있다](thing_05/README.md)
 1. [리팩터링하기 전에](thing_06/README.md)
 1. [공유에 유의하라](thing_07/README.md)
+1. [보이스카우트 규칙](thing_08/README.md)
 1. [코드는 설계다](thing_12/README.md)
 1. [코드 레이아웃이 중요하다](thing_13/README.md)
 1. [추론하며 코딩하기](thing_15/README.md)
